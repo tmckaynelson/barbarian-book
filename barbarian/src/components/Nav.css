@@ -2,4 +2,11 @@
     border-color: #000000;
     border-width: 3px;
     border-style: solid;
+    display: flex;
+    flex-direction: row;
+}
+
+.nav-links {
+    display: flex;
+    flex-direction: row;
 }
